@@ -1,3 +1,6 @@
+
+!!! With Node.js 10.x fix from https://github.com/danwrong/restler/pull/113/files
+
 Restler
 =======
 
